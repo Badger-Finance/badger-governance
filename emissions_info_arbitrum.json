@@ -1,0 +1,340 @@
+{
+  "30-09-21": {
+    "timerange": {
+      "starttime": 1633021200,
+      "endtime": 1633626000
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 2300,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 2300,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 230,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "07-10-21": {
+    "timerange": {
+      "starttime": 1633626000,
+      "endtime": 1634230800
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 2155,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 2155,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 228,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "14-10-21": {
+    "timerange": {
+      "starttime": 1634230800,
+      "endtime": 1634835600
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 2018,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 2018,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 227,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "21-10-21": {
+    "timerange": {
+      "starttime": 1634835600,
+      "endtime": 1635440400
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1891,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1891,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 225,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "28-10-21": {
+    "timerange": {
+      "starttime": 1635440400,
+      "endtime": 1636045200
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1771,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1771,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 223,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "04-11-21": {
+    "timerange": {
+      "starttime": 1636045200,
+      "endtime": 1636650000
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1659,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1659,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 221,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "11-11-21": {
+    "timerange": {
+      "starttime": 1636650000,
+      "endtime": 1637254800
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1554,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1554,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 220,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "18-11-21": {
+    "timerange": {
+      "starttime": 1637254800,
+      "endtime": 1637859600
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1456,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1456,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 218,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "25-11-21": {
+    "timerange": {
+      "starttime": 1637859600,
+      "endtime": 1638464400
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1364,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1364,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 216,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "02-12-21": {
+    "timerange": {
+      "starttime": 1638464400,
+      "endtime": 1639069200
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1227,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1227,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 215,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "09-12-21": {
+    "timerange": {
+      "starttime": 1639069200,
+      "endtime": 1639674000
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1197,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1197,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 213,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "16-12-21": {
+    "timerange": {
+      "starttime": 1639674000,
+      "endtime": 1640278800
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1121,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1121,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 212,
+        "digg_allocation": 0
+      }
+    ]
+  },
+  "23-12-21": {
+    "timerange": {
+      "starttime": 1640278800,
+      "endtime": 1640883600
+    },
+    "setts": [
+      {
+        "name": "renBTC-Arbitrum",
+        "address": "0xBA418CDdd91111F5c1D1Ac2777Fa8CEa28D71843",
+        "badger_allocation": 1050,
+        "digg_allocation": 0
+      },
+      {
+        "name": "Tricrypto-Arbitrum",
+        "address": "0x4591890225394BF66044347653e112621AF7DDeb",
+        "badger_allocation": 1050,
+        "digg_allocation": 0
+      },
+      {
+        "name": "ETH/WBTC-Arbitrum",
+        "address": "0xFc13209cAfE8fb3bb5fbD929eC9F11a39e8Ac041",
+        "badger_allocation": 210,
+        "digg_allocation": 0
+      }
+    ]
+  }
+}
